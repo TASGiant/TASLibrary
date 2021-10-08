@@ -1,0 +1,6 @@
+README.md
+setup.py
+TASLibrary.egg-info/PKG-INFO
+TASLibrary.egg-info/SOURCES.txt
+TASLibrary.egg-info/dependency_links.txt
+TASLibrary.egg-info/top_level.txt
