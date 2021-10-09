@@ -94,3 +94,13 @@ class Print:
             @staticmethod
             def power(FirstNumber, SecondNumber):
                 print(FirstNumber ** SecondNumber)
+        
+        class ProducerFormula:
+
+            @staticmethod
+            def a2substractb2(a, b):
+                print((a + b) * (a - b))
+
+            @staticmethod
+            def a3addb3(a, b):
+                print((a + b) * (a ** 2 - a * b + b ** 2))
