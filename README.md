@@ -8,12 +8,6 @@ mathematical problems.
 |TASMath|Mathematical problems|`from TASLibrary import TASMath`|
 |TASPhysics|Physics based mathematical problem|`from TASLibrary import TASPhysics`|
 ***
-## Installation
-***
-```Command
-pip install taslibrary
-```
-***
 ## Included Module for TASMath
 ***
 |Module Name|Call|
